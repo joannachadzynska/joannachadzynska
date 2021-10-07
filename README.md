@@ -55,8 +55,8 @@
 <hr/>
 <br/>
 <div>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=joanna-chadzynska&show_icons=true&locale=en&theme=react&layout=compact" alt="joanna-chadzynska" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=joanna-chadzynska&show_icons=true&locale=en&theme=react" alt="joanna-chadzynska" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=joannachadzynska&show_icons=true&locale=en&theme=react&layout=compact" alt="joanna-chadzynska" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=joannachadzynska&show_icons=true&locale=en&theme=react" alt="joanna-chadzynska" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@jojosoft&layout=compact&theme=react" alt="joanna-chadzynska" /></p>
 </div>
 
