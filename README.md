@@ -1,4 +1,4 @@
-[![Header](./banner.png)]()
+[![Header](./banner.svg)]()
 
 <!-- add link to portfolio page -->
 
